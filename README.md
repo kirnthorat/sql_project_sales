@@ -1,1 +1,2 @@
-# sql_project_sales
+Reatail sales Analysis SQL Project
+Project Overview
